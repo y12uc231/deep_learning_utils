@@ -6,5 +6,5 @@ Ill be posting a lot of different nets implemented in tensorflow. They are divid
 
 1. vision_apps : Code for image datasets (MNIST, etc)
 2. text_apps : Code for lang. corpuses 
-
+3. Basic Tutes : Tensoflow basics 
 
