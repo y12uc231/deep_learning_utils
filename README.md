@@ -8,3 +8,7 @@ Ill be posting a lot of different nets implemented in tensorflow. They are divid
 2. text_apps : Code for lang. corpuses 
 3. basic_tutes : Tensoflow basics 
 4. re_inforce : Code for reinforcement learning. (It includes OpenGym)
+
+## Important info 
+
+1. Pre-trained word2vecs : https://code.google.com/archive/p/word2vec/ : Google word-to-vecs on Google news , billions of words 
