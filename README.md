@@ -11,7 +11,7 @@ Ill be posting a lot of different nets implemented in tensorflow. They are divid
 
 ## Why so much importance to deep learning?
 
-![](https://github.com/y12uc231/Capstone/blob/master/Screen%20Shot%202018-04-12%20at%201.13.06%20AM.png)
+![](https://raw.githubusercontent.com/y12uc231/deep_learning_utils/master/nips.png)
 
 ## Important info 
 
