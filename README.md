@@ -13,6 +13,8 @@ Ill be posting a lot of different nets implemented in tensorflow. They are divid
 
 ![](https://raw.githubusercontent.com/y12uc231/deep_learning_utils/master/nips.png)
 
+Picture is worth a million words.
+
 ## Important info 
 
 1. Pre-trained word2vecs : https://code.google.com/archive/p/word2vec/ : Google word-to-vecs on Google news , billions of words 
